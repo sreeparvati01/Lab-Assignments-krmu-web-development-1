@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Momo+Signature&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/*This will be applied to all the element.*/
+body{
+  font-family: 'roboto', sans-serif;
+  text-align: center;
+ }
+/*This is applied for the navigation bar.*/
+ header{
+  background-color:#0000ff;
+  color:#ffffff;
+  text-align: center;
+  
+ }
+
+nav a{
+  color:#ffffff;
+  text-decoration:none ;
+  padding: 10px;
+}
+
+nav a:hover{
+  background-color: #00ffff;
+
+}
+
+
+/*style for section*/
+section {
+  padding: 25px;
+  text-align: center;
+  margin: 5px;
+  border: #0000ff 2px solid;
+
+}
+/*style for picture*/
+img {
+  border-radius:1000px;
+  border: 1px solid #0000ff;
+  
+}
+
+
+/*style for table*/
+table {
+  border:2px solid #0000ff;
+  padding: 10px ;
+  text-align: center;
+  margin: auto;
+
+}
+
+th, td {
+  border: 2px solid #0000ff;
+  padding: 10px;
+}
+
+th {
+  background-color: #0000ff;
+  color: white;
+  padding: 10px;
+
+
+}
+
+button{
+  background-color: #0000ff;
+  color: #ffffff;
+  border-radius: 100px;
+
+}
+button:hover{
+  color: #ffebcd;
+}
+
+/*Back to top button*/
+.top{
+  background-color: #0000ff;
+  color: #ffffff;
+  text-decoration: none;
+  position:fixed;
+  bottom: 20px;
+  right: 20px;
+
+}
+/*For projects*/
+li{
+  padding:15px;
+  margin:10px;
+  border:1px solid #0000ff;
+}
+ 
+
+
+
+
+
