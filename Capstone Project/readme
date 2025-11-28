@@ -1,1 +1,25 @@
+##THEME
+The theme of this website is *Travel & Tourism*, focused on inspiring people to explore beautiful places around the world.  
+
+##FEATURES
+1.Beautiful responsive landing page
+2.Navigation bar with smooth scrolling
+3.Travel packages section with images & details
+4.Beginner-friendly clean and simple code
+5.Sticky navigation bar
+6.Footer with contact details & social links
+
+##BREAKPOINTS
+Desktop- 1024px and above | Full layout with horizontal navigation |
+Tablet- 768px – 1023px | Grid adjusts, text resizes |
+Mobile-320px – 767px | Menus stack vertically, sections become single column |
+
+##HOW TO RUN/VIEW
+# Using VS Code
+1. Open VS Code
+2. Install extension (Live Server)
+3. Right-click on "index.html"
+4. Click (Open with Live Server)
+5. Website opens automatically in browser
+
 
