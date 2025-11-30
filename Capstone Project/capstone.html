@@ -167,9 +167,15 @@
 
     <div class="contact-area">
         <form class="contact-form">
-            <input type="text" placeholder="Enter your name">
-            <input type="email" placeholder="Enter your email">
+            <label for="username">Full Name</label>
+            <input type="text" id="username" placeholder="Enter your name" required>
+
+            <label for="email">Email Address</label>
+            <input type="email" id="email" placeholder="Enter your email"required>
+
+            <label for="message">Message</label>
             <textarea rows="4" placeholder="Write your message"></textarea>
+            
             <button>Send Message</button>
         </form>
     </div>
@@ -182,3 +188,4 @@
 
 </body>
 </html>
+
