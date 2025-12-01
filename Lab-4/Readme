@@ -1,0 +1,21 @@
+## QUIZ GAME
+## Features
+
+1)Multiple-choice quiz questions.
+2)Instant feedback with hints for wrong answers.
+3)Score calculation and performance message.
+4)High score storage using LocalStorage.
+5)Accepts player name.
+
+## How to Run the Project
+
+1.Download or clone the project folder.
+2.Open index.html in any modern web browser.
+3.The quiz will start automatically.
+4.Enter your name and play.
+
+## Future Enhancements
+
+1)Add difficulty levels (Easy / Medium / Hard).
+2)Display leaderboard with top 5 high scores.
+
